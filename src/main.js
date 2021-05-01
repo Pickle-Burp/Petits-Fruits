@@ -8,7 +8,6 @@ import App from './App.vue';
 import './registerServiceWorker';
 import router from './router';
 import store from './store';
-import 'buefy/dist/buefy.css';
 
 library.add(fab, fas);
 
@@ -17,12 +16,12 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 Vue.config.productionTip = false;
 
+Vue.use(Buefy, {
+  defaultIconPack: 'fab',
+});
+
 new Vue({
   router,
   store,
   render: (h) => h(App),
 }).$mount('#app');
-
-Vue.use(Buefy, {
-  defaultIconPack: 'fab',
-});
