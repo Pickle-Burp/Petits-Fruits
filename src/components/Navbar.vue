@@ -9,9 +9,6 @@
       </b-navbar-item>
     </template>
     <template #start>
-      <b-navbar-item :to="{ path: '/game' }" tag="router-link">
-        Le jeu
-      </b-navbar-item>
       <b-navbar-item :to="{ path: '/project' }" tag="router-link">
         Le projet
       </b-navbar-item>
@@ -21,7 +18,7 @@
     </template>
 
     <template #end>
-      <b-navbar-item tag="div">
+        <b-navbar-item :to="{ path: '/downloads' }" tag="router-link">
         <div class="buttons">
           <a class="button is-primary">
             <strong>Essayer</strong>
