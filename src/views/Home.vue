@@ -1,22 +1,25 @@
 <template>
   <section>
     <Navbar/>
-    <HelloWorld/>
+    <Hero/>
+    <Team/>
     <Footer/>
   </section>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '../components/Hero.vue';
+import Hero from '../components/Hero.vue';
 import Navbar from '../components/Navbar.vue';
 import Footer from '../components/Footer.vue';
+import Team from '../components/Team.vue';
 
 export default {
   name: 'Home',
   components: {
+    Team,
     Footer,
-    HelloWorld,
+    Hero,
     Navbar,
   },
 };
