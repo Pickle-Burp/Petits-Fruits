@@ -9,7 +9,7 @@
         </h2>
       </div>
       <div class="container top-padding">
-        <h1 class="title">Le jeu</h1>
+        <h1 class="title">Le Projet</h1>
         <div class="buttons">
           <a href="#"
              target="_blank">
@@ -31,9 +31,16 @@
       <div class="container top-padding">
         <h1 class="title">Le projet</h1>
         <div class="buttons">
-          <a href="#" target="_blank">
-            <b-button type="is-warning" icon-left="download" disabled>
-              Le rapport de projet
+          <a href="../assets/Pickle_Cahier_des_charges.pdf" target="_blank">
+            <b-button type="is-warning" icon-left="download">
+              Le cahier des charges
+            </b-button>
+          </a>
+          <a href="../assets/Pickle_Soutenance_1.pdf.pdf"
+             style="padding-left: 1em"
+             target="_blank">
+            <b-button type="is-warning" icon-left="download">
+              Rapport de soutenance 1
             </b-button>
           </a>
           <a href="#"
