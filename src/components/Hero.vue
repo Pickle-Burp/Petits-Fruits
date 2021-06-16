@@ -4,10 +4,10 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <p class="title">
-          Title
+          🥒 Pickle-Burp 🥒
         </p>
         <p class="subtitle">
-          Subtitle
+          Hey Mor..buuurrrpp...ty! Look! I'm a pickle!
         </p>
       </div>
     </div>
