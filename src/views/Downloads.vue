@@ -29,7 +29,7 @@
         </div>
       </div>
       <div class="container top-padding">
-        <h1 class="title">Le projet</h1>
+        <h1 class="title">Les rapports</h1>
         <div class="buttons">
           <a href="../assets/Pickle_Cahier_des_charges.pdf" target="_blank">
             <b-button type="is-warning" icon-left="download">
@@ -41,6 +41,13 @@
              target="_blank">
             <b-button type="is-warning" icon-left="download">
               Rapport de soutenance 1
+            </b-button>
+          </a>
+          <a href="../assets/Pickle___Soutenance_2.pdf"
+             style="padding-left: 1em"
+             target="_blank">
+            <b-button type="is-warning" icon-left="download">
+              Rapport de soutenance 2
             </b-button>
           </a>
           <a href="#"

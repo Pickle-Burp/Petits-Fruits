@@ -21,7 +21,7 @@
       <div class="columns">
         <div class="column">
           <TeamMember name="Matthieu" username="Szechuan-sauce"
-                      role="Chef de projet, Segmentation"
+                      role="Chef de projet, Enregistrement audio, Transformation en spectrogramme."
                       avatar="https://img2.freepng.fr/20180320/hwq/kisspng-pocket-mortys-rick-sanchez-morty-smith-computer-ic-rick-avatar-blue-vers-icon-5ab1ccd860a082.9774853115216017523958.jpg"
                       desc="J'aime beaucoup le jus d'ananas. Ca donne un petit gout sucré."
           />
@@ -40,7 +40,7 @@
         </div>
         <div class="column">
           <TeamMember name="Annabelle" username="Prout"
-                      role="Analyse du texte, Execution"
+                      role="Analyse du texte, Execution, Interface graphique"
                       desc="Son père met son iPad dans le four. Puis le fait cuire."
                       avatar="https://static.wikia.nocookie.net/rickandmorty/images/8/84/Fart.jpg"/>
         </div>
